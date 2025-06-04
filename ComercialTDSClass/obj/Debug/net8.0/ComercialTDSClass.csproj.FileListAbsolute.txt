@@ -1,0 +1,13 @@
+C:\Users\marcell.aecastro\source\repos\ComercialTDS\ComercialTDSClass\bin\Debug\net8.0\ComercialTDSClass.deps.json
+C:\Users\marcell.aecastro\source\repos\ComercialTDS\ComercialTDSClass\bin\Debug\net8.0\ComercialTDSClass.dll
+C:\Users\marcell.aecastro\source\repos\ComercialTDS\ComercialTDSClass\bin\Debug\net8.0\ComercialTDSClass.pdb
+C:\Users\marcell.aecastro\source\repos\ComercialTDS\ComercialTDSClass\obj\Debug\net8.0\ComercialTDSClass.csproj.AssemblyReference.cache
+C:\Users\marcell.aecastro\source\repos\ComercialTDS\ComercialTDSClass\obj\Debug\net8.0\ComercialTDSClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcell.aecastro\source\repos\ComercialTDS\ComercialTDSClass\obj\Debug\net8.0\ComercialTDSClass.AssemblyInfoInputs.cache
+C:\Users\marcell.aecastro\source\repos\ComercialTDS\ComercialTDSClass\obj\Debug\net8.0\ComercialTDSClass.AssemblyInfo.cs
+C:\Users\marcell.aecastro\source\repos\ComercialTDS\ComercialTDSClass\obj\Debug\net8.0\ComercialTDSClass.csproj.CoreCompileInputs.cache
+C:\Users\marcell.aecastro\source\repos\ComercialTDS\ComercialTDSClass\obj\Debug\net8.0\ComercialTDSClass.sourcelink.json
+C:\Users\marcell.aecastro\source\repos\ComercialTDS\ComercialTDSClass\obj\Debug\net8.0\ComercialTDSClass.dll
+C:\Users\marcell.aecastro\source\repos\ComercialTDS\ComercialTDSClass\obj\Debug\net8.0\refint\ComercialTDSClass.dll
+C:\Users\marcell.aecastro\source\repos\ComercialTDS\ComercialTDSClass\obj\Debug\net8.0\ComercialTDSClass.pdb
+C:\Users\marcell.aecastro\source\repos\ComercialTDS\ComercialTDSClass\obj\Debug\net8.0\ref\ComercialTDSClass.dll
