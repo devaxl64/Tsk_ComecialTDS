@@ -14,6 +14,7 @@ SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='ONLY_FULL_GROUP_BY,STRICT_TRANS_TABLES,N
 -- -----------------------------------------------------
 -- Schema comercialtdsdb01
 -- -----------------------------------------------------
+drop database if exists comercialtdsdb01;
 CREATE SCHEMA IF NOT EXISTS `comercialtdsdb01` DEFAULT CHARACTER SET utf8 ;
 USE `comercialtdsdb01` ;
 
@@ -413,7 +414,6 @@ end$$
 DELIMITER ;
 
 
-
 USE `comercialtdsdb01`;
 DROP procedure IF EXISTS `sp_cliente_update`;
 
@@ -666,6 +666,7 @@ begin
    update niveis set nome = spnome, sigla = spsigla 
    where id = spid;
 end $$
+DELIMITER ;
 
 -- *********************************************************************
 -- Alteração da procedure de insert de produtos, para incluir a imagem
@@ -701,9 +702,8 @@ begin
     default);
     select last_insert_id();
 end$$
-
-
 DELIMITER ;
+
 USE `comercialtdsdb01`;
 DROP procedure IF EXISTS `comercialtdsdb01`.`sp_produto_update`;
 ;
@@ -744,13 +744,13 @@ SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS;
 ----------------------------------
 -- Adicionando usuario para fazer teste de login no C#
 --------------------
-
-call sp_usuario_insert('Marcell', 'marcell@tdsq.com','1234',1);
+USE `comercialtdsdb01`;
 call sp_nivel_insert('Master','MT');
+call sp_usuario_insert('Marcell', 'marcell@tdsq.com','1234',1);
 
 -- UPDATE usuarios SET senha md5('123') WHERE email = 'marcell@tdsq.com');
 
--- select * from usuarios;
--- select * from niveis;
+select * from usuarios;
+select * from niveis;
 -- UPDATE estoques SET quantidade = quantidade + (SELECT quantidade FROM itempedido WHERE id = 1) WHERE produto_id = 740001;
 -- DELETE FROM itempedido WHERE id = 1;
