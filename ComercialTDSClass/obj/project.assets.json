@@ -1615,11 +1615,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marcell.aecastro\\source\\repos\\ComercialTDS\\ComercialTDSClass\\ComercialTDSClass.csproj",
+      "projectUniqueName": "C:\\Users\\marcell.aecastro\\Documents\\Tsk_ComecialTDS\\ComercialTDSClass\\ComercialTDSClass.csproj",
       "projectName": "ComercialTDSClass",
-      "projectPath": "C:\\Users\\marcell.aecastro\\source\\repos\\ComercialTDS\\ComercialTDSClass\\ComercialTDSClass.csproj",
+      "projectPath": "C:\\Users\\marcell.aecastro\\Documents\\Tsk_ComecialTDS\\ComercialTDSClass\\ComercialTDSClass.csproj",
       "packagesPath": "C:\\Users\\marcell.aecastro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marcell.aecastro\\source\\repos\\ComercialTDS\\ComercialTDSClass\\obj\\",
+      "outputPath": "C:\\Users\\marcell.aecastro\\Documents\\Tsk_ComecialTDS\\ComercialTDSClass\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
