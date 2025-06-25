@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Administrador\\Documents\\GitHub\\Tsk_ComecialTDS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{826D6A22-CD95-4D7C-BC6F-344D48531A12}|ComercialTDSClass\\ComercialTDSClass.csproj|c:\\users\\administrador\\documents\\github\\tsk_comecialtds\\comercialtdsclass\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826D6A22-CD95-4D7C-BC6F-344D48531A12}|ComercialTDSClass\\ComercialTDSClass.csproj|solutionrelative:comercialtdsclass\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{10B2E60F-39D2-4782-96FB-5FB5ED901721}|ComercialTDSDesk\\ComercialTDSDesk.csproj|c:\\users\\administrador\\documents\\github\\tsk_comecialtds\\comercialtdsdesk\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10B2E60F-39D2-4782-96FB-5FB5ED901721}|ComercialTDSDesk\\ComercialTDSDesk.csproj|solutionrelative:comercialtdsdesk\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -37,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{10B2E60F-39D2-4782-96FB-5FB5ED901721}|ComercialTDSDesk\\ComercialTDSDesk.csproj|C:\\Users\\Administrador\\Documents\\GitHub\\Tsk_ComecialTDS\\comercialtdsdesk\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{10B2E60F-39D2-4782-96FB-5FB5ED901721}|ComercialTDSDesk\\ComercialTDSDesk.csproj|solutionrelative:comercialtdsdesk\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{826D6A22-CD95-4D7C-BC6F-344D48531A12}|ComercialTDSClass\\ComercialTDSClass.csproj|c:\\users\\administrador\\documents\\github\\tsk_comecialtds\\comercialtdsclass\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{826D6A22-CD95-4D7C-BC6F-344D48531A12}|ComercialTDSClass\\ComercialTDSClass.csproj|solutionrelative:comercialtdsclass\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "FrmNivel.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\GitHub\\Tsk_ComecialTDS\\ComercialTDSDesk\\FrmNivel.Designer.cs",
               "RelativeDocumentMoniker": "ComercialTDSDesk\\FrmNivel.Designer.cs",
@@ -70,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "FrmNivel.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\GitHub\\Tsk_ComecialTDS\\ComercialTDSDesk\\FrmNivel.cs",
               "RelativeDocumentMoniker": "ComercialTDSDesk\\FrmNivel.cs",
@@ -83,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "FrmNivel.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\GitHub\\Tsk_ComecialTDS\\ComercialTDSDesk\\FrmNivel.cs",
               "RelativeDocumentMoniker": "ComercialTDSDesk\\FrmNivel.cs",
@@ -94,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\GitHub\\Tsk_ComecialTDS\\ComercialTDSClass\\Cliente.cs",
               "RelativeDocumentMoniker": "ComercialTDSClass\\Cliente.cs",
@@ -106,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FrmLogin.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\GitHub\\Tsk_ComecialTDS\\ComercialTDSDesk\\FrmLogin.cs",
               "RelativeDocumentMoniker": "ComercialTDSDesk\\FrmLogin.cs",
@@ -119,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FrmLogin.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\GitHub\\Tsk_ComecialTDS\\ComercialTDSDesk\\FrmLogin.cs",
               "RelativeDocumentMoniker": "ComercialTDSDesk\\FrmLogin.cs",
@@ -130,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Nivel.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\GitHub\\Tsk_ComecialTDS\\ComercialTDSClass\\Nivel.cs",
               "RelativeDocumentMoniker": "ComercialTDSClass\\Nivel.cs",
@@ -142,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FrmPrincipal.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\GitHub\\Tsk_ComecialTDS\\ComercialTDSDesk\\FrmPrincipal.cs",
               "RelativeDocumentMoniker": "ComercialTDSDesk\\FrmPrincipal.cs",
@@ -155,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "FrmPrincipal.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\GitHub\\Tsk_ComecialTDS\\ComercialTDSDesk\\FrmPrincipal.cs",
               "RelativeDocumentMoniker": "ComercialTDSDesk\\FrmPrincipal.cs",
@@ -166,15 +166,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "Banco.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\GitHub\\Tsk_ComecialTDS\\ComercialTDSClass\\Banco.cs",
               "RelativeDocumentMoniker": "ComercialTDSClass\\Banco.cs",
               "ToolTip": "C:\\Users\\Administrador\\Documents\\GitHub\\Tsk_ComecialTDS\\ComercialTDSClass\\Banco.cs",
               "RelativeToolTip": "ComercialTDSClass\\Banco.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T14:10:15.665Z"
+              "WhenOpened": "2025-05-13T14:10:15.665Z",
+              "EditorCaption": ""
             }
           ]
         }
