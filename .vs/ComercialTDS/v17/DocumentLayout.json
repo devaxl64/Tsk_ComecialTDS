@@ -1,45 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\marcell.aecastro\\Documents\\Tsk_ComecialTDS\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\Documents\\GitHub\\Tsk_ComecialTDS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10B2E60F-39D2-4782-96FB-5FB5ED901721}|ComercialTDSDesk\\ComercialTDSDesk.csproj|c:\\users\\marcell.aecastro\\documents\\tsk_comecialtds\\comercialtdsdesk\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10B2E60F-39D2-4782-96FB-5FB5ED901721}|ComercialTDSDesk\\ComercialTDSDesk.csproj|c:\\users\\administrador\\documents\\github\\tsk_comecialtds\\comercialtdsdesk\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10B2E60F-39D2-4782-96FB-5FB5ED901721}|ComercialTDSDesk\\ComercialTDSDesk.csproj|solutionrelative:comercialtdsdesk\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{826D6A22-CD95-4D7C-BC6F-344D48531A12}|ComercialTDSClass\\ComercialTDSClass.csproj|c:\\users\\marcell.aecastro\\documents\\tsk_comecialtds\\comercialtdsclass\\nivel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{826D6A22-CD95-4D7C-BC6F-344D48531A12}|ComercialTDSClass\\ComercialTDSClass.csproj|c:\\users\\administrador\\documents\\github\\tsk_comecialtds\\comercialtdsclass\\nivel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{826D6A22-CD95-4D7C-BC6F-344D48531A12}|ComercialTDSClass\\ComercialTDSClass.csproj|solutionrelative:comercialtdsclass\\nivel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10B2E60F-39D2-4782-96FB-5FB5ED901721}|ComercialTDSDesk\\ComercialTDSDesk.csproj|C:\\Users\\marcell.aecastro\\Documents\\Tsk_ComecialTDS\\comercialtdsdesk\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{10B2E60F-39D2-4782-96FB-5FB5ED901721}|ComercialTDSDesk\\ComercialTDSDesk.csproj|C:\\Users\\Administrador\\Documents\\GitHub\\Tsk_ComecialTDS\\comercialtdsdesk\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{10B2E60F-39D2-4782-96FB-5FB5ED901721}|ComercialTDSDesk\\ComercialTDSDesk.csproj|solutionrelative:comercialtdsdesk\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10B2E60F-39D2-4782-96FB-5FB5ED901721}|ComercialTDSDesk\\ComercialTDSDesk.csproj|c:\\users\\marcell.aecastro\\documents\\tsk_comecialtds\\comercialtdsdesk\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10B2E60F-39D2-4782-96FB-5FB5ED901721}|ComercialTDSDesk\\ComercialTDSDesk.csproj|c:\\users\\administrador\\documents\\github\\tsk_comecialtds\\comercialtdsdesk\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10B2E60F-39D2-4782-96FB-5FB5ED901721}|ComercialTDSDesk\\ComercialTDSDesk.csproj|solutionrelative:comercialtdsdesk\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{826D6A22-CD95-4D7C-BC6F-344D48531A12}|ComercialTDSClass\\ComercialTDSClass.csproj|c:\\users\\marcell.aecastro\\documents\\tsk_comecialtds\\comercialtdsclass\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{826D6A22-CD95-4D7C-BC6F-344D48531A12}|ComercialTDSClass\\ComercialTDSClass.csproj|c:\\users\\administrador\\documents\\github\\tsk_comecialtds\\comercialtdsclass\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{826D6A22-CD95-4D7C-BC6F-344D48531A12}|ComercialTDSClass\\ComercialTDSClass.csproj|solutionrelative:comercialtdsclass\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10B2E60F-39D2-4782-96FB-5FB5ED901721}|ComercialTDSDesk\\ComercialTDSDesk.csproj|C:\\Users\\marcell.aecastro\\Documents\\Tsk_ComecialTDS\\comercialtdsdesk\\frmnivel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{10B2E60F-39D2-4782-96FB-5FB5ED901721}|ComercialTDSDesk\\ComercialTDSDesk.csproj|C:\\Users\\Administrador\\Documents\\GitHub\\Tsk_ComecialTDS\\comercialtdsdesk\\frmnivel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{10B2E60F-39D2-4782-96FB-5FB5ED901721}|ComercialTDSDesk\\ComercialTDSDesk.csproj|solutionrelative:comercialtdsdesk\\frmnivel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10B2E60F-39D2-4782-96FB-5FB5ED901721}|ComercialTDSDesk\\ComercialTDSDesk.csproj|c:\\users\\marcell.aecastro\\documents\\tsk_comecialtds\\comercialtdsdesk\\frmnivel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10B2E60F-39D2-4782-96FB-5FB5ED901721}|ComercialTDSDesk\\ComercialTDSDesk.csproj|c:\\users\\administrador\\documents\\github\\tsk_comecialtds\\comercialtdsdesk\\frmnivel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10B2E60F-39D2-4782-96FB-5FB5ED901721}|ComercialTDSDesk\\ComercialTDSDesk.csproj|solutionrelative:comercialtdsdesk\\frmnivel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10B2E60F-39D2-4782-96FB-5FB5ED901721}|ComercialTDSDesk\\ComercialTDSDesk.csproj|c:\\users\\marcell.aecastro\\documents\\tsk_comecialtds\\comercialtdsdesk\\frmnivel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10B2E60F-39D2-4782-96FB-5FB5ED901721}|ComercialTDSDesk\\ComercialTDSDesk.csproj|c:\\users\\administrador\\documents\\github\\tsk_comecialtds\\comercialtdsdesk\\frmnivel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10B2E60F-39D2-4782-96FB-5FB5ED901721}|ComercialTDSDesk\\ComercialTDSDesk.csproj|solutionrelative:comercialtdsdesk\\frmnivel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10B2E60F-39D2-4782-96FB-5FB5ED901721}|ComercialTDSDesk\\ComercialTDSDesk.csproj|C:\\Users\\marcell.aecastro\\Documents\\Tsk_ComecialTDS\\comercialtdsdesk\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{10B2E60F-39D2-4782-96FB-5FB5ED901721}|ComercialTDSDesk\\ComercialTDSDesk.csproj|C:\\Users\\Administrador\\Documents\\GitHub\\Tsk_ComecialTDS\\comercialtdsdesk\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{10B2E60F-39D2-4782-96FB-5FB5ED901721}|ComercialTDSDesk\\ComercialTDSDesk.csproj|solutionrelative:comercialtdsdesk\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{826D6A22-CD95-4D7C-BC6F-344D48531A12}|ComercialTDSClass\\ComercialTDSClass.csproj|c:\\users\\marcell.aecastro\\documents\\tsk_comecialtds\\comercialtdsclass\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{826D6A22-CD95-4D7C-BC6F-344D48531A12}|ComercialTDSClass\\ComercialTDSClass.csproj|c:\\users\\administrador\\documents\\github\\tsk_comecialtds\\comercialtdsclass\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{826D6A22-CD95-4D7C-BC6F-344D48531A12}|ComercialTDSClass\\ComercialTDSClass.csproj|solutionrelative:comercialtdsclass\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -60,9 +60,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "FrmNivel.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\marcell.aecastro\\Documents\\Tsk_ComecialTDS\\ComercialTDSDesk\\FrmNivel.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\GitHub\\Tsk_ComecialTDS\\ComercialTDSDesk\\FrmNivel.Designer.cs",
               "RelativeDocumentMoniker": "ComercialTDSDesk\\FrmNivel.Designer.cs",
-              "ToolTip": "C:\\Users\\marcell.aecastro\\Documents\\Tsk_ComecialTDS\\ComercialTDSDesk\\FrmNivel.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\GitHub\\Tsk_ComecialTDS\\ComercialTDSDesk\\FrmNivel.Designer.cs",
               "RelativeToolTip": "ComercialTDSDesk\\FrmNivel.Designer.cs",
               "ViewState": "AgIAAE0AAAAAAAAAAAAMwGQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -72,9 +72,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "FrmNivel.cs",
-              "DocumentMoniker": "C:\\Users\\marcell.aecastro\\Documents\\Tsk_ComecialTDS\\ComercialTDSDesk\\FrmNivel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\GitHub\\Tsk_ComecialTDS\\ComercialTDSDesk\\FrmNivel.cs",
               "RelativeDocumentMoniker": "ComercialTDSDesk\\FrmNivel.cs",
-              "ToolTip": "C:\\Users\\marcell.aecastro\\Documents\\Tsk_ComecialTDS\\ComercialTDSDesk\\FrmNivel.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\GitHub\\Tsk_ComecialTDS\\ComercialTDSDesk\\FrmNivel.cs",
               "RelativeToolTip": "ComercialTDSDesk\\FrmNivel.cs",
               "ViewState": "AgIAAFIAAAAAAAAAAAAuwGwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -85,34 +85,32 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "FrmNivel.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\marcell.aecastro\\Documents\\Tsk_ComecialTDS\\ComercialTDSDesk\\FrmNivel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\GitHub\\Tsk_ComecialTDS\\ComercialTDSDesk\\FrmNivel.cs",
               "RelativeDocumentMoniker": "ComercialTDSDesk\\FrmNivel.cs",
               "ToolTip": "C:\\Users\\marcell.aecastro\\Documents\\Tsk_ComecialTDS\\ComercialTDSDesk\\FrmNivel.cs [Design]",
-              "RelativeToolTip": "ComercialTDSDesk\\FrmNivel.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\marcell.aecastro\\Documents\\Tsk_ComecialTDS\\ComercialTDSDesk\\FrmNivel.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T14:09:35.595Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-21T14:09:35.595Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\marcell.aecastro\\Documents\\Tsk_ComecialTDS\\ComercialTDSClass\\Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\GitHub\\Tsk_ComecialTDS\\ComercialTDSClass\\Cliente.cs",
               "RelativeDocumentMoniker": "ComercialTDSClass\\Cliente.cs",
-              "ToolTip": "C:\\Users\\marcell.aecastro\\Documents\\Tsk_ComecialTDS\\ComercialTDSClass\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\GitHub\\Tsk_ComecialTDS\\ComercialTDSClass\\Cliente.cs",
               "RelativeToolTip": "ComercialTDSClass\\Cliente.cs",
               "ViewState": "AgIAAIIAAAAAAAAAAAAwwKAAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T12:57:22.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T12:57:22.313Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "FrmLogin.cs",
-              "DocumentMoniker": "C:\\Users\\marcell.aecastro\\Documents\\Tsk_ComecialTDS\\ComercialTDSDesk\\FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\GitHub\\Tsk_ComecialTDS\\ComercialTDSDesk\\FrmLogin.cs",
               "RelativeDocumentMoniker": "ComercialTDSDesk\\FrmLogin.cs",
-              "ToolTip": "C:\\Users\\marcell.aecastro\\Documents\\Tsk_ComecialTDS\\ComercialTDSDesk\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\GitHub\\Tsk_ComecialTDS\\ComercialTDSDesk\\FrmLogin.cs",
               "RelativeToolTip": "ComercialTDSDesk\\FrmLogin.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAApwDMAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -123,36 +121,34 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "FrmLogin.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\marcell.aecastro\\Documents\\Tsk_ComecialTDS\\ComercialTDSDesk\\FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\GitHub\\Tsk_ComecialTDS\\ComercialTDSDesk\\FrmLogin.cs",
               "RelativeDocumentMoniker": "ComercialTDSDesk\\FrmLogin.cs",
               "ToolTip": "C:\\Users\\marcell.aecastro\\Documents\\Tsk_ComecialTDS\\ComercialTDSDesk\\FrmLogin.cs [Projeto]",
-              "RelativeToolTip": "ComercialTDSDesk\\FrmLogin.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\..\\marcell.aecastro\\Documents\\Tsk_ComecialTDS\\ComercialTDSDesk\\FrmLogin.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T12:55:10.914Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2025-05-21T12:55:10.914Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Nivel.cs",
-              "DocumentMoniker": "C:\\Users\\marcell.aecastro\\Documents\\Tsk_ComecialTDS\\ComercialTDSClass\\Nivel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\GitHub\\Tsk_ComecialTDS\\ComercialTDSClass\\Nivel.cs",
               "RelativeDocumentMoniker": "ComercialTDSClass\\Nivel.cs",
-              "ToolTip": "C:\\Users\\marcell.aecastro\\Documents\\Tsk_ComecialTDS\\ComercialTDSClass\\Nivel.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\GitHub\\Tsk_ComecialTDS\\ComercialTDSClass\\Nivel.cs",
               "RelativeToolTip": "ComercialTDSClass\\Nivel.cs",
               "ViewState": "AgIAAEMAAAAAAAAAAIAwwFQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T12:30:49.593Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T12:30:49.593Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FrmPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\marcell.aecastro\\Documents\\Tsk_ComecialTDS\\ComercialTDSDesk\\FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\GitHub\\Tsk_ComecialTDS\\ComercialTDSDesk\\FrmPrincipal.cs",
               "RelativeDocumentMoniker": "ComercialTDSDesk\\FrmPrincipal.cs",
-              "ToolTip": "C:\\Users\\marcell.aecastro\\Documents\\Tsk_ComecialTDS\\ComercialTDSDesk\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\GitHub\\Tsk_ComecialTDS\\ComercialTDSDesk\\FrmPrincipal.cs",
               "RelativeToolTip": "ComercialTDSDesk\\FrmPrincipal.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAIAwwCwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAIAwwBwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T12:27:06.698Z",
               "EditorCaption": ""
@@ -161,10 +157,10 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "FrmPrincipal.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\marcell.aecastro\\Documents\\Tsk_ComecialTDS\\ComercialTDSDesk\\FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\GitHub\\Tsk_ComecialTDS\\ComercialTDSDesk\\FrmPrincipal.cs",
               "RelativeDocumentMoniker": "ComercialTDSDesk\\FrmPrincipal.cs",
               "ToolTip": "C:\\Users\\marcell.aecastro\\source\\repos\\ComercialTDS\\ComercialTDSDesk\\FrmPrincipal.cs [Projeto]",
-              "RelativeToolTip": "..\\..\\source\\repos\\ComercialTDS\\ComercialTDSDesk\\FrmPrincipal.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\..\\marcell.aecastro\\source\\repos\\ComercialTDS\\ComercialTDSDesk\\FrmPrincipal.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T12:27:05.166Z"
             },
@@ -172,9 +168,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Banco.cs",
-              "DocumentMoniker": "C:\\Users\\marcell.aecastro\\Documents\\Tsk_ComecialTDS\\ComercialTDSClass\\Banco.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\GitHub\\Tsk_ComecialTDS\\ComercialTDSClass\\Banco.cs",
               "RelativeDocumentMoniker": "ComercialTDSClass\\Banco.cs",
-              "ToolTip": "C:\\Users\\marcell.aecastro\\Documents\\Tsk_ComecialTDS\\ComercialTDSClass\\Banco.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\GitHub\\Tsk_ComecialTDS\\ComercialTDSClass\\Banco.cs",
               "RelativeToolTip": "ComercialTDSClass\\Banco.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

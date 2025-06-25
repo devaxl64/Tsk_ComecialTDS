@@ -11,3 +11,16 @@ C:\Users\marcell.aecastro\source\repos\ComercialTDS\ComercialTDSClass\obj\Debug\
 C:\Users\marcell.aecastro\source\repos\ComercialTDS\ComercialTDSClass\obj\Debug\net8.0\refint\ComercialTDSClass.dll
 C:\Users\marcell.aecastro\source\repos\ComercialTDS\ComercialTDSClass\obj\Debug\net8.0\ComercialTDSClass.pdb
 C:\Users\marcell.aecastro\source\repos\ComercialTDS\ComercialTDSClass\obj\Debug\net8.0\ref\ComercialTDSClass.dll
+C:\Users\Administrador\Documents\GitHub\Tsk_ComecialTDS\ComercialTDSClass\bin\Debug\net8.0\ComercialTDSClass.deps.json
+C:\Users\Administrador\Documents\GitHub\Tsk_ComecialTDS\ComercialTDSClass\bin\Debug\net8.0\ComercialTDSClass.dll
+C:\Users\Administrador\Documents\GitHub\Tsk_ComecialTDS\ComercialTDSClass\bin\Debug\net8.0\ComercialTDSClass.pdb
+C:\Users\Administrador\Documents\GitHub\Tsk_ComecialTDS\ComercialTDSClass\obj\Debug\net8.0\ComercialTDSClass.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\GitHub\Tsk_ComecialTDS\ComercialTDSClass\obj\Debug\net8.0\ComercialTDSClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\GitHub\Tsk_ComecialTDS\ComercialTDSClass\obj\Debug\net8.0\ComercialTDSClass.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\GitHub\Tsk_ComecialTDS\ComercialTDSClass\obj\Debug\net8.0\ComercialTDSClass.AssemblyInfo.cs
+C:\Users\Administrador\Documents\GitHub\Tsk_ComecialTDS\ComercialTDSClass\obj\Debug\net8.0\ComercialTDSClass.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\GitHub\Tsk_ComecialTDS\ComercialTDSClass\obj\Debug\net8.0\ComercialTDSClass.sourcelink.json
+C:\Users\Administrador\Documents\GitHub\Tsk_ComecialTDS\ComercialTDSClass\obj\Debug\net8.0\ComercialTDSClass.dll
+C:\Users\Administrador\Documents\GitHub\Tsk_ComecialTDS\ComercialTDSClass\obj\Debug\net8.0\refint\ComercialTDSClass.dll
+C:\Users\Administrador\Documents\GitHub\Tsk_ComecialTDS\ComercialTDSClass\obj\Debug\net8.0\ComercialTDSClass.pdb
+C:\Users\Administrador\Documents\GitHub\Tsk_ComecialTDS\ComercialTDSClass\obj\Debug\net8.0\ref\ComercialTDSClass.dll
